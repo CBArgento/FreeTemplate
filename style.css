@@ -10,7 +10,7 @@ body, html {
   
   .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Img/CityTwo.jpg");
-    height: 60%;
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -241,7 +241,7 @@ p {
 .white-heading span {
     color: #ffffff;
 }
-/*-----Testimonial-------*/
+/*-----Testimonial Section-------*/
 
 .testimonial:after {
     position: absolute;
@@ -432,9 +432,9 @@ p {
     width: 35px;
     height: 35px;
 }
-/* ------testimonial  close-------*/
+/* ------Testimonial Section Ends Here-------*/
 
-/*Testing bounce effect*/
+/*Testing Bounce Effect*/
 .jbox {
     display:grid;  
     grid-template-columns: repeat(4, 1fr);
@@ -473,7 +473,7 @@ p {
   .color-purple {background:white;}
   .color-orange {background:white;}
   
-  /* jHover starts here */
+  /* jHover Starts Here */
   
   .jFloat {
     -webkit-transition: 0.3s transform ease-out;
